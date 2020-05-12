@@ -1,2 +1,4 @@
 # Paypal
-Paypal project with PHP, made to learn how to implement this payment method in real projects.
+Prueba con el API DE Paypal en PHP.
+
+Este proyecto es para aprender a integrar el método de pago Paypal a proyectos reales en PHP.
